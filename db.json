@@ -1,0 +1,68 @@
+{  "quiz1": {
+   "category": "Parts of Speech",
+   "difficulty": "Basic",
+   "questions": [
+         {
+         "question": "What does a pronoun do?",
+         "correct_answer": "It replaces a noun.",
+         "incorrect_answers": [
+            "It sounds pretty.", 
+            "It goes at the beginning of a sentence.",
+            "It owes me money."
+         ]
+         },
+         {
+         "question": "What is a noun?",
+         "correct_answer": "It is a person, place, or object.",
+         "incorrect_answers": [
+            "It is a subject.", 
+            "It goes at the beginning of a sentence.",
+            "It is an action."
+         ]
+         },
+         {
+         "question": "What is a verb?",
+         "correct_answer": "It is an action.",
+         "incorrect_answers": [
+            "It sounds like crazy talk.", 
+            "It goes at the beginning of a sentence.",
+            "It owes me money."
+            ]
+         }
+   ]
+},
+"quiz2": {
+   "category": "Pronouns",
+   "difficulty": "Basic",
+   "questions": [
+         {
+         "question": "What pronoun is Mr. Smith?",
+         "correct_answer": "HE",
+         "incorrect_answers": [
+            "SHE", 
+            "IT",
+            "YOU"
+         ]
+         },
+         {
+         "question": "What pronoun is Mrs. Smith?",
+         "correct_answer": "SHE",
+         "incorrect_answers": [
+            "HE", 
+            "WE",
+            "YOU"
+         ]
+         },
+         {
+         "question": "What pronoun is a pizza?",
+         "correct_answer": "IT",
+         "incorrect_answers": [
+            "SHE", 
+            "HE",
+            "WE"
+         ]
+         }
+   ]
+}
+   
+}
